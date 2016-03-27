@@ -1,0 +1,2 @@
+#Ignoring all the files inside target folder recursively
+target/
